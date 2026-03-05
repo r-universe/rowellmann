@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "optiSel"]
+	path = optiSel
+	url = https://github.com/cran/optiSel
+[submodule "sumer"]
+	path = sumer
+	url = https://github.com/cran/sumer
